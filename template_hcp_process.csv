@@ -1,0 +1,8 @@
+﻿Tahap Produksi,Risiko Bahan,Risiko Kontaminasi,Risiko Alat,Risiko Dokumen,Risiko Sanitasi,Catatan Risiko
+Penerimaan bahan baku,95,70,30,90,40,Sebagian bahan belum memiliki sertifikat halal dan dokumen pemasok belum lengkap.
+Penyimpanan bahan baku,60,80,40,50,55,Ada potensi tercampur antara bahan berbeda karena area penyimpanan belum dipisah.
+Persiapan dan pencampuran,70,65,75,40,60,Alat pencampur digunakan bersama dan prosedur pembersihan belum terdokumentasi.
+Pengolahan atau pemasakan,45,35,40,30,35,"Risiko relatif terkendali, tetapi SOP sanitasi perlu diperjelas."
+Pengemasan,60,55,45,70,45,Bahan kemasan kontak langsung belum tervalidasi dokumen pendukungnya.
+Penyimpanan produk jadi,25,30,20,35,30,"Risiko rendah, namun pelabelan dan pemisahan produk tetap perlu dipantau."
+Distribusi atau penjualan,20,25,15,25,20,Risiko rendah selama produk dikemas baik dan tidak bercampur dengan produk lain.
