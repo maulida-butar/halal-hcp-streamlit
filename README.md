@@ -19,6 +19,7 @@ $$
 $$
 
 Di mana $T_v$ merupakan *Veto Threshold* (ambang batas kritis dinamis) yang diatur interaktif oleh pakar/pendamping halal.
+
 📝 Sitasi Akademik
 Jika Anda menggunakan prototype atau memodifikasi kode dalam repositori ini untuk keperluan riset ilmiah, mohon cantumkan sitasi berikut:
 
