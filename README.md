@@ -23,7 +23,7 @@ Di mana $T_v$ merupakan *Veto Threshold* (ambang batas kritis dinamis) yang diat
 ## Sitasi Akademik
 Jika Anda menggunakan prototype atau memodifikasi kode dalam repositori ini untuk keperluan riset ilmiah, mohon cantumkan sitasi berikut:
 
-Butar Butar, M. (2026). Model Identifikasi Halal Critical Point Berbasis Python sebagai Alat Bantu Pra-Sertifikasi Halal pada Proses Produksi UMKM Pangan. Makalah disajikan dalam Konferensi Halal Universitas Airlangga: Harmonisasi Lintas Sektor dan Kesiapan Industri Nasional, Surabaya, Indonesia.
+Butar Butar, M., Irvansyah, D. A., Armando, J., Syehan, S., & Putri, N. T. (2026). Model Identifikasi Halal Critical Point Berbasis Python sebagai Alat Bantu Pra-Sertifikasi Halal pada Proses Produksi UMKM Pangan. Makalah disajikan dalam Konferensi Halal Universitas Airlangga: Harmonisasi Lintas Sektor dan Kesiapan Industri Nasional, Surabaya, Indonesia.
 
 ## Lisensi
 Proyek ini dilisensikan di bawah MIT License - lihat file LICENSE untuk detailnya. Penggunaan kode untuk riset, pengabdian masyarakat, dan edukasi sangat didukung.
